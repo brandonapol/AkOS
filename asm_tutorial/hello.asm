@@ -1,3 +1,7 @@
+; 
+; A 'hello world' in ASM built for pre-existing OS
+;
+
 section	.text
    global _start     ;must be declared for linker (ld)
 	
